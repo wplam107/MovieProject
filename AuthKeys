@@ -8,3 +8,4 @@ MySQL Database
   host: database-1.cupf7l8r9ow5.us-east-2.rds.amazonaws.com
   user: newuser
   password: Movie-Project!123
+  database: Movies_DB
