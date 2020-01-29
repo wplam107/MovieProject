@@ -3,3 +3,8 @@ https://www.themoviedb.org/
   Example API Request: https://api.themoviedb.org/3/movie/550?api_key=4ae91e0768b7d391f170e698fbd8bf8d
   API Read Access Token (v4 auth): eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0YWU5MWUwNzY4YjdkMzkxZjE3MGU2OThmYmQ4YmY4ZCIsInN1YiI6IjVlMzBiOTAxZWRhNGI3MDAxN2YxNWE0ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.6zO8OIi2Ga0uhULT26BwI6JxBdMLOPaMtlRCMoQ--kM
   API Documentation: https://developers.themoviedb.org/3/getting-started/introduction
+
+MySQL Database
+  host: database-1.cupf7l8r9ow5.us-east-2.rds.amazonaws.com
+  user: newuser
+  password: Movie-Project!123
